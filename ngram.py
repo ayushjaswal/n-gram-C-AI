@@ -120,7 +120,7 @@ def main():
     print()
     
     # Step 3: Generate text samples
-    starting_sequence = ["the", "transformer"]
+    starting_sequence = ["the", "first"]
     num_words = 30
     num_samples = 3
     
